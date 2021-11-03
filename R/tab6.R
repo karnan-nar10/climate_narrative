@@ -1,29 +1,29 @@
-tab_report_ui <- function () {
-  out <- list()
+tab6_ui <- function () {
   if(!pandoc_available()){
     warning('Pandoc (required to render rtf) not available, hiding download report button')
+    out <- list()
   } else {
-    out <- c(out, list(
+    out <- list(
       downloadButton("report", "Download the report as RTF")
-    ))
+    )
   }
   out <- c(out, list(
-    conditionalPanel("$('html').hasClass('shiny-busy')", 
-        tags$div('Rendering the report...')
-    ),
+    # uiOutput('test_output'), # uncomment for debugging
+    # uiOutput("show_aggregated_inputs"), # uncomment for debugging
+    # uiOutput('show_all_inputs'), # uncomment for debugging
     uiOutput("rendered_report")
   ))
 }
 
-tab_report_server <- function (input, output, session, tab) {
+tab6_server <- function (input, output, session, tab) {
   observeEvent(
     input$type,
     {
       tab$previous_tab <- switch(
         input$type,
-        insurance = 6,
-        asset = 5,
-        3
+        insurance = 5,
+        asset = 4,
+        2
       )
     }
   )
