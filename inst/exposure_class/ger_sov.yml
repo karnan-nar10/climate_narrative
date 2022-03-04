@@ -109,20 +109,14 @@ transition:
       
       In 2020, emissions from the energy supply sector stood at 221 MtCO2e, a reduction of 
       14.5% compared to the previous year. Emissions from electricity generation in 2020 fell 
-      by 16% compared to. Compared to 1990, emissions from electricity generation fell by almost 
+      by 16% compared to 2019. Compared to 1990, emissions from electricity generation fell by almost 
       half. Germany's coal generation in 2020 has also declined at a much slower rate (-51%) than 
       in other countries such as the UK (-93%) or Italy (-65%).
 
-      The share of renewables in total electricity consumption reached a peak of 46.2% in 2020, 
-      but at the same time the expansion crisis for wind power continued and studies find that 
-      almost half of the higher renewable share in 2020 was attributable to the COVID-19-induced 
-      drop in electricity demand.
-      
-      In the first half of 2021, electricity generated from renewable sources covered 47% of 
-      total German consumption, down from 52% in the same period in the previous year, as 
-      weather conditions brought little wind and sunshine.
+      The share of renewables in Germany's electricity generation mix has been growing steadily 
+      since the 1990s, and reached a peak of ~33% in 2017, exceeding global and EU averages.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_Germany.png)
 
       **Source:**
       [Climate Action Tracker](https://climateactiontracker.org/){target="\_blank"}
@@ -133,7 +127,10 @@ transition:
       revenue it receives. Assuming taxation rates remain unchanged, a decrease
       in GDP could lead to a reduction in fiscal revenue. According to estimates
       from the NGFS, disorderly transition could result in significant GDP
-      losses. 
+      losses. In these scenarios, world GDP losses from both physical and transition 
+      risk are estimated to be between -4.2% and -4.8% by 2050. World GDP impacts 
+      from transition risks are negative as the speed of the transition combines with 
+      investment uncertainty and affects consumption and investment. 
       
       In these scenarios, there is a large mix of physical and transition risks in 2050. 
       Based on the IIASA NGFS Scenario Explorer v2.0, the expected impact of a Disorderly 
@@ -153,9 +150,9 @@ transition:
       risks for these top-rated countries, but greater sensitivity of the top
       ratings. It is easier to lose an AAA rating than a C rating. 
       
-      According to the study, in these scenarios, Germany would have a downgrade below 
-      one notch by 2100, increasing the cost of borrowing for the German government by 
-      approximately US$0.23-0.35bn.
+      According to the study, in a transition risk (RCP 2.6) scenario, Germany would 
+      have a downgrade below one notch by 2100, increasing the cost of borrowing for 
+      the German government by approximately US$0.23-0.34bn.
 
   low:
     exec_description: |
@@ -203,28 +200,22 @@ transition:
       [How could climate change impact sovereign risk](https://content.ftserussell.com/sites/default/files/research/How%20could%20climate%20change%20impact%20sovereign%20risk%20FINAL.pdf){target="\_blank"}).
 
       Germany's electricity mix is still heavily dependent on fossil fuels. While coal 
-      generation has halved since 2015, natural gas has more than doubled its share, 
-      and total fossil generation has fallen by only 31%. Around two thirds of electricity 
-      generation emissions in 2020 came from lignite and hard coal-fired power plants, and 
-      16% of the country's total emissions still came from power and heat generation from 
-      coal-fired power plants. 
+      generation has halved since 2015, it has declined at a much slower rate (-51%) than 
+      in other countries such as the UK (-93%) or Italy (-65%). Natural gas has more than 
+      doubled its share, and total fossil generation has fallen by only 31%. Around two 
+      thirds of electricity generation emissions in 2020 came from lignite and hard coal-fired 
+      power plants, and 16% of the country's total emissions still came from power and heat 
+      generation from coal-fired power plants. 
       
-      In 2020, emissions from the energy supply sector stood at 221 MtCO2e, a reduction of 
+      In 2020, emissions from Germany's energy supply sector stood at 221 MtCO2e, a reduction of 
       14.5% compared to the previous year. Emissions from electricity generation in 2020 fell 
-      by 16% compared to. Compared to 1990, emissions from electricity generation fell by almost 
-      half. Germany's coal generation in 2020 has also declined at a much slower rate (-51%) than 
-      in other countries such as the UK (-93%) or Italy (-65%).
+      by 16% compared to 2019. Compared to 1990, emissions from electricity generation fell by almost 
+      half. 
 
-      The share of renewables in total electricity consumption reached a peak of 46.2% in 2020, 
-      but at the same time the expansion crisis for wind power continued and studies find that 
-      almost half of the higher renewable share in 2020 was attributable to the COVID-19-induced 
-      drop in electricity demand.
-      
-      In the first half of 2021, electricity generated from renewable sources covered 47% of 
-      total German consumption, down from 52% in the same period in the previous year, as 
-      weather conditions brought little wind and sunshine.
+      The share of renewables in Germany's electricity generation mix has been growing steadily 
+      since the 1990s, and reached a peak of ~33% in 2017, exceeding global and EU averages.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_Germany.png)
 
       **Source:**
       [Climate Action Tracker](https://climateactiontracker.org/){target="\_blank"}
@@ -261,7 +252,7 @@ transition:
       
       According to the study, in a transition risk (RCP 2.6) scenario, Germany would 
       have a downgrade below one notch by 2100, increasing the cost of borrowing for 
-      the German government by approximately US$0.23-0.35bn. 
+      the German government by approximately US$0.23-0.34bn. 
 physical:
   high:
     exec_description: |
@@ -280,7 +271,7 @@ physical:
       impacting households, businesses, cities and states. There are also likely
       indirect risks, such as those caused by international migration (e.g.
       increased inequalities, labour right issues, social conflicts), or via
-      biodiversity loss, or to industries supply chains and international trade.
+      biodiversity loss, or to industries' supply chains and international trade.
 
       The high physical risk scenario could lead to a significant reduction in
       GDP growth. This would have a negative impact on German sovereign bonds.
@@ -347,7 +338,7 @@ physical:
       but greater sensitivity of the top ratings. It is easier to lose an AAA
       rating than a C rating. 
       
-      According to the study, in a high physical risk scenario, Germany would have a 
+      According to the study, in a high physical risk scenario (RCP 8.5), Germany would have a 
       downgrade above three notches by 2100, increasing the cost of borrowing for the 
       German government by approximately US$3.66-5.49bn.
 
@@ -364,7 +355,7 @@ physical:
       floods, and heat waves could become more prevalent, impacting households, 
       businesses, cities and states. There are also likely indirect risks, such as 
       those caused by international migration (e.g. increased inequalities, labour 
-      right issues, social conflicts), or via biodiversity loss, or to industries 
+      right issues, social conflicts), or via biodiversity loss, or to industries' 
       supply chains and international trade. 
       
       The low physical risk scenario could lead to a reduction in GDP growth. This 

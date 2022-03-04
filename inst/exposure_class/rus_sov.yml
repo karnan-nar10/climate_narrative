@@ -100,7 +100,7 @@ transition:
       which would, in turn, impact fiscal revenues (for more detail see
       [How could climate change impact sovereign risk](https://content.ftserussell.com/sites/default/files/research/How%20could%20climate%20change%20impact%20sovereign%20risk%20FINAL.pdf){target="\_blank"}).
 
-      Russia's energy sector accounted for nearly 80% of all emissions in 2019. In 2020, 
+      Russia's energy sector accounted for nearly 80% of the country's emissions in 2019. In 2020, 
       Russia saw its third consecutive year of increasing flaring volumes, maintaining its 
       position as the world’s largest gas flaring nation (Global Gas Flaring Reduction Partnership, 
       2021). At 25 billion cubic metres, Russia flared over 40% more gas in 2020 than the next 
@@ -128,7 +128,7 @@ transition:
       by 2030. However, in 2019, just 0.16% of Russia's electricity came from non-hydro renewables 
       compared to the global average of over 10%.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_Russia.png)
 
       **Source:**
       [Climate Action Tracker](https://climateactiontracker.org/){target="\_blank"}
@@ -139,7 +139,10 @@ transition:
       revenue it receives. Assuming taxation rates remain unchanged, a decrease
       in GDP could lead to a reduction in fiscal revenue. According to estimates
       from the NGFS, disorderly transition could result in significant GDP
-      losses. 
+      losses. In these scenarios, world GDP losses from both physical and transition 
+      risk are estimated to be between -4.2% and -4.8% by 2050. World GDP impacts 
+      from transition risks are negative as the speed of the transition combines with 
+      investment uncertainty and affects consumption and investment. 
       
       In these scenarios, there is a large mix of physical and transition risks in 2050. 
       Based on the IIASA NGFS Scenario Explorer v2.0, the expected impact of a Disorderly 
@@ -159,8 +162,8 @@ transition:
       risks for these top-rated countries, but greater sensitivity of the top
       ratings. It is easier to lose an AAA rating than a C rating. 
       
-      According to the study, in these scenarios, Russia would not have a climate 
-      induced sovereign downgrade.
+      According to the study, in a transition risk (RCP 2.6) scenario, Russia would not 
+      have a climate induced sovereign downgrade.
 
   low:
     exec_description: |
@@ -207,7 +210,7 @@ transition:
       impact fiscal revenues (for more detail see
       [How could climate change impact sovereign risk](https://content.ftserussell.com/sites/default/files/research/How%20could%20climate%20change%20impact%20sovereign%20risk%20FINAL.pdf){target="\_blank"}).
 
-      Russia's energy sector accounted for nearly 80% of all emissions in 2019. In 2020, 
+      Russia's energy sector accounted for nearly 80% of the country's emissions in 2019. In 2020, 
       Russia saw its third consecutive year of increasing flaring volumes, maintaining its 
       position as the world’s largest gas flaring nation (Global Gas Flaring Reduction Partnership, 
       2021). At 25 billion cubic metres, Russia flared over 40% more gas in 2020 than the next 
@@ -235,7 +238,7 @@ transition:
       by 2030. However, in 2019, just 0.16% of Russia's electricity came from non-hydro renewables 
       compared to the global average of over 10%.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_Russia.png)
 
       **Source:**
       [Climate Action Tracker](https://climateactiontracker.org/){target="\_blank"}
@@ -290,7 +293,7 @@ physical:
       impacting households, businesses, cities and states. There are also likely
       indirect risks, such as those caused by international migration (e.g.
       increased inequalities, labour right issues, social conflicts), or via
-      biodiversity loss, or to industries supply chains and international trade.
+      biodiversity loss, or to industries' supply chains and international trade.
 
       The high physical risk scenario could lead to a significant reduction in
       GDP growth. This would have a negative impact on Russian sovereign bonds.
@@ -357,7 +360,7 @@ physical:
       but greater sensitivity of the top ratings. It is easier to lose an AAA
       rating than a C rating. 
       
-      According to the study, in a high physical risk scenario, Russia would have a downgrade 
+      According to the study, in a high physical risk scenario (RCP 8.5), Russia would have a downgrade 
       below one notch by 2100, increasing the cost of borrowing for the Russian government by 
       approximately US$0.08-0.12bn.
 
@@ -374,7 +377,7 @@ physical:
       floods, and heat waves could become more prevalent, impacting households, 
       businesses, cities and states. There are also likely indirect risks, such as 
       those caused by international migration (e.g. increased inequalities, labour 
-      right issues, social conflicts), or via biodiversity loss, or to industries 
+      right issues, social conflicts), or via biodiversity loss, or to industries' 
       supply chains and international trade. 
       
       The low physical risk scenario could lead to a reduction in GDP growth. This 

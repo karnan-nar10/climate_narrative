@@ -114,7 +114,7 @@ transition:
       combined for the first time ever. Wind generation, fuelled by new offshore
       capacity, increased its share of total generation by 4.4% to 24.2%.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_UK_US_EU.png)
 
       **Source:**
       [Climate Action Tracker](https://climateactiontracker.org/){target="\_blank"}
@@ -148,7 +148,7 @@ transition:
       top-rated countries. This does not necessarily reflect increased climate-related
       risks for these top-rated countries, but greater sensitivity of the top
       ratings. It is easier to lose an AAA rating than a C rating. According to the study, 
-      in these scenarios, the UK would have a downgrade of around 
+      in a transition risk (RCP 2.6) scenario, the UK would have a downgrade of around 
       one notch by 2100, increasing the cost of borrowing for the UK government by 
       approximately US$2-3bn.
 
@@ -210,7 +210,7 @@ transition:
       Wind generation, fuelled by new offshore capacity, increased its share of
       total generation by 4.4% to 24.2%.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_UK_US_EU.png)
 
       **Source:**
       [Climate Action Tracker](https://climateactiontracker.org/){target="\_blank"}
@@ -243,8 +243,9 @@ transition:
       marginally downgraded (1 notch or less). Most downgrades would be among
       top-rated countries. This does not necessarily reflect increased climate-related
       risks for these top-rated countries, but greater sensitivity of the top
-      ratings. It is easier to lose an AAA rating than a C rating. According to
-      the study, in a low transition risk (RCP 2.6) scenario, the UK would have
+      ratings. It is easier to lose an AAA rating than a C rating. 
+      
+      According to the study, in a transition risk (RCP 2.6) scenario, the UK would have
       a downgrade of around one notch by 2100, increasing the cost of borrowing for
       the UK government by approximately US$2-3bn.
 
@@ -266,7 +267,7 @@ physical:
       impacting households, businesses, cities and states. There are also likely
       indirect risks, such as those caused by international migration (e.g.
       increased inequalities, labour right issues, social conflicts), or via
-      biodiversity loss, or to industries supply chains and international trade.
+      biodiversity loss, or to industries' supply chains and international trade.
 
       The high physical risk scenario could lead to a significant reduction in
       GDP growth. This would have a negative impact on UK sovereign bonds.
@@ -328,7 +329,7 @@ physical:
       necessarily reflect increased climate-related risks for these top-rated countries,
       but greater sensitivity of the top ratings. It is easier to lose an AAA
       rating than a C rating. According to the study, in a high physical risk
-      scenario, the UK would have a downgrade exceeding three notches by 2100,
+      scenario (RCP 8.5), the UK would have a downgrade exceeding three notches by 2100,
       increasing the cost of borrowing for the UK government by approximately
       US$7.6-11.3bn.
 
@@ -347,7 +348,7 @@ physical:
       more prevalent, impacting households, businesses, cities and states. There
       are also likely indirect risks, such as those caused by international
       migration (e.g. increased inequalities, labour right issues, social
-      conflicts), or via biodiversity loss, or to industries supply chains and
+      conflicts), or via biodiversity loss, or to industries' supply chains and
       international trade. The low physical risk scenario could lead to a
       reduction in GDP growth. This would have a negative impact on UK sovereign
       bonds.

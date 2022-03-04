@@ -114,7 +114,7 @@ transition:
       consequently has a lower share of renewable energy compared to the UK or
       its European counterparts.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_UK_US_EU.png)
 
       **Source:** [Climate Action Tracker](https://climateactiontracker.org/)
 
@@ -147,7 +147,7 @@ transition:
       top-rated countries. This does not necessarily reflect increased climate-related
       risks for these top-rated countries, but greater sensitivity of the top
       ratings. It is easier to lose an AAA rating than a C rating. According to
-      the study, in these scenarios, the US would have a downgrade below one notch 
+      the study, in a transition risk (RCP 2.6) scenario, the US would have a downgrade below one notch 
       by 2100, increasing the cost of borrowing for the US government by
       approximately US$7.35-11.03bn.
   low:
@@ -206,7 +206,7 @@ transition:
       consequently has a lower share of renewable energy compared to the UK or
       its European counterparts.
 
-      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign.png)
+      ![Share of Renewable Electricity Generation](Share_of_Renewable_Electricity_Generation_Soverign_UK_US_EU.png)
 
       **Source:**
       [Climate Action Tracker](https://climateactiontracker.org/){target="\_blank"}
@@ -242,7 +242,7 @@ transition:
       risks for these top-rated countries, but greater sensitivity of the top
       ratings. It is easier to lose an AAA rating than a C rating.
 
-      According to the study, in an Orderly transition risk (RCP 2.6) scenario,
+      According to the study, in a transition risk (RCP 2.6) scenario,
       the US would have a downgrade below one notch by 2100, increasing the cost
       of borrowing for the US government by approximately US$7.35-11.03bn.
 physical:
@@ -263,7 +263,7 @@ physical:
       impacting households, businesses, cities and states. There are also likely
       indirect risks, such as those caused by international migration (e.g.
       increased inequalities, labour right issues, social conflicts), or via
-      biodiversity loss, or to industries supply chains and international trade.
+      biodiversity loss, or to industries' supply chains and international trade.
 
       The high physical risk scenario could lead to a significant reduction in
       GDP growth. This would have a negative impact on US sovereign bonds.
@@ -338,7 +338,7 @@ physical:
       necessarily reflect increased climate-related risks for these top-rated countries,
       but greater sensitivity of the top ratings. It is easier to lose an AAA
       rating than a C rating. According to the study, in a high physical risk
-      scenario, the US would have a downgrade close to five notches by 2100,
+      scenario (RCP 8.5), the US would have a downgrade close to five notches by 2100,
       increasing the cost of borrowing for the US government by approximately
       US$63.2-94.8bn.
 
@@ -357,7 +357,7 @@ physical:
       more prevalent, impacting households, businesses, cities and states. There
       are also likely indirect risks, such as those caused by international
       migration (e.g. increased inequalities, labour right issues, social
-      conflicts), or via biodiversity loss, or to industries supply chains and
+      conflicts), or via biodiversity loss, or to industries' supply chains and
       international trade. The low physical risk scenario could lead to a
       reduction in GDP growth. This would have a negative impact on US sovereign
       bonds.
